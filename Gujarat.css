@@ -1,0 +1,23 @@
+.first {
+    background-image: url('guj.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.first-head {
+    color: white;
+    padding-top: 90vh;
+    padding-left: 30px;
+}
+.recipe {
+    padding-top: 200px;
+}
+.card {
+    background-color: beige;
+    border-radius: 15px;
+    box-shadow: 10px 10px bisque;
+    min-width: 15rem;
+    max-width: 25rem;
+}
